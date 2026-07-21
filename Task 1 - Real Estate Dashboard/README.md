@@ -11,3 +11,5 @@ To transition from looking at raw real estate numbers to building an interactive
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](USA_Real_Estate_Market_Insights.png)
 
+## 🔗 Live Deliverables
+- [View my Project Demonstration Video on LinkedIn](https://www.linkedin.com/posts/aireen-fatma_dataanalytics-powerbi-businessintelligence-activity-7485189266122268672--6IU?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk)
