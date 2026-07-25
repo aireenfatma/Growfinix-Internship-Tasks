@@ -1,4 +1,4 @@
-# Growfinix Data Analytics Internship Portfolio
+# Growfinix Data Analytics Internship Tasks
 
 This repository contains my submissions for the Month 2 Data Analytics internship tasks at Growfinix. It showcases end-to-end skills in Business Intelligence, Data Visualization, and Statistical Analysis.
 
