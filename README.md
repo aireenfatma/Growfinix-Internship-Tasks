@@ -14,7 +14,7 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 - **Tech Stack:** Microsoft Power BI
 - **Status:** ✅ Completed
 
-### 🧪 [Task 2: A/B Testing Analysis for Media Campaigns](./Task%202%20-%20AB%20Testing)
+### 🧪 [Task 2: AB Testing Analysis for Media Campaigns](./Task%202%20-%20AB%20Testing)
 - **Goal:** Analyze click-through rates and calculate p-values for media edits.
 - **Tech Stack:** Python (SciPy)
 - **Status:** ✅ Completed
