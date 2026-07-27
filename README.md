@@ -20,7 +20,7 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 
 ### 📊 [Task 1: Interactive Real Estate Pricing Dashboard](./Task%201%20-%20Real%20Estate%20Dashboard)
 - **Goal:** Built a dynamic dashboard featuring interactive maps and filters for property prices by neighborhood, square footage, and school proximity.
-- **Tech Stack:** Microsoft Power BI
+- **Tech Stack:** Microsoft Power BI, PostgreSQL
 - **Status:** ✅ Completed
 
 ### 🧪 [Task 2: A/B Testing Analysis for Media Campaigns](./Task%202%20-%20AB%20Testing%20Analysis%20for%20Media%20Campaigns)
