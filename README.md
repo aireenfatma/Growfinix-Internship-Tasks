@@ -17,4 +17,9 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 ### 🧪 [Task 2: A/B Testing Analysis for Media Campaigns](./Task%202%20-%20AB%20Testing)
 - **Goal:** Analyze click-through rates and calculate p-values for media edits.
 - **Tech Stack:** Python (SciPy)
+- **Status:** ✅ Completed
+
+### 📈 Task 3: E-Commerce Web Analytics & GA4 Tracking
+- **Goal:** Configured Google Analytics 4 (GA4) event tracking for e-commerce user journeys, analyzing conversion funnels and user acquisition sources.
+- **Tech Stack:** Google Analytics 4 (GA4), Looker Studio
 - **Status:** ⏳ In Progress
