@@ -4,7 +4,7 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 
 ## 🛠️ Tech Stack
 - **BI & Visualization:** Microsoft Power BI, Looker Studio, Tableau
-- **Languages & Databases:** Python (SciPy, Pandas), SQL
+- **Languages & Databases:** Python (SciPy, Pandas, Numpy, Seaborn, Matplotlib), SQL
 - **Tracking:** Google Analytics 4 (GA4)
 
 ## 🗂️ Task Directory
