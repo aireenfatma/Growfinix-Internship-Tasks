@@ -7,6 +7,15 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 - **Languages & Databases:** Python (SciPy, Pandas, Numpy, Seaborn, Matplotlib), SQL
 - **Tracking:** Google Analytics 4 (GA4)
 
+# Growfinix Data Analytics Internship Tasks
+
+This repository contains my submissions for the Month 2 Data Analytics internship tasks at Growfinix. It showcases end-to-end skills in Business Intelligence, Data Visualization, and Statistical Analysis.
+
+## 🛠️ Tech Stack
+- **BI & Visualization:** Microsoft Power BI, Looker Studio, Tableau
+- **Languages & Databases:** Python (SciPy, Pandas, Numpy, Seaborn, Matplotlib), SQL
+- **Tracking:** Google Analytics 4 (GA4)
+
 ## 🗂️ Task Directory
 
 ### 📊 [Task 1: Interactive Real Estate Pricing Dashboard](./Task%201%20-%20Real%20Estate%20Dashboard)
@@ -14,7 +23,7 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 - **Tech Stack:** Microsoft Power BI
 - **Status:** ✅ Completed
 
-### 🧪 Task 2: A/B Testing Analysis for Media Campaigns
+### 🧪 [Task 2: A/B Testing Analysis for Media Campaigns](./Task%202%20-%20AB%20Testing%20Analysis%20for%20Media%20Campaigns)
 - **Goal:** Analyzed click-through rates (CTR) and conversion metrics, performing two-sample $t$-tests to evaluate $p$-values and statistical significance for campaign creative edits.
 - **Tech Stack:** Python (Pandas, SciPy, Seaborn, Matplotlib)
 - **Status:** ✅ Completed
