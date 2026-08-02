@@ -1,4 +1,4 @@
-# Task 3: E-Commerce Sales Funnel Dashboard
+# Task 3: E-Commerce Sales Funnel & Performance Dashboard
 
 ## 📌 Project Overview
 This project is an interactive **E-Commerce Sales Funnel Dashboard** designed to analyze and visualize customer journey stages—from initial site visits and product views to cart additions, checkout, and completed purchases. 
