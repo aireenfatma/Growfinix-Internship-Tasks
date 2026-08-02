@@ -2,19 +2,14 @@
 
 This repository contains my submissions for the Month 2 Data Analytics internship tasks at Growfinix. It showcases end-to-end skills in Business Intelligence, Data Visualization, and Statistical Analysis.
 
-## 🛠️ Tech Stack
-- **BI & Visualization:** Microsoft Power BI, Looker Studio, Tableau
-- **Languages & Databases:** Python (SciPy, Pandas, Numpy, Seaborn, Matplotlib), SQL
-- **Tracking:** Google Analytics 4 (GA4)
-
-# Growfinix Data Analytics Internship Tasks
-
-This repository contains my submissions for the Month 2 Data Analytics internship tasks at Growfinix. It showcases end-to-end skills in Business Intelligence, Data Visualization, and Statistical Analysis.
+---
 
 ## 🛠️ Tech Stack
 - **BI & Visualization:** Microsoft Power BI, Looker Studio, Tableau
 - **Languages & Databases:** Python (SciPy, Pandas, Numpy, Seaborn, Matplotlib), SQL
 - **Tracking:** Google Analytics 4 (GA4)
+
+---
 
 ## 🗂️ Task Directory
 
