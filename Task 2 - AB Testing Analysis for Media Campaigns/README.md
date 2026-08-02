@@ -42,6 +42,6 @@ Comparative boxplots were generated to evaluate distributions of key performance
 ---
 
 ## 🔗 Live Deliverables
-- [View my Project Demonstration Video on LinkedIn]([https://www.linkedin.com/posts/aireen-fatma_dataanalytics-powerbi-businessintelligence-activity-7485189266122268672--6IU?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk](https://www.linkedin.com/posts/aireen-fatma_dataanalytics-abtesting-python-ugcPost-7487785265818787841-GRU3/?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk))
+- [View my Project Demonstration Video on LinkedIn]((https://www.linkedin.com/posts/aireen-fatma_dataanalytics-abtesting-python-ugcPost-7487785265818787841-GRU3/?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk))
 
 
