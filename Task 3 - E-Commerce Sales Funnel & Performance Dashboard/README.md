@@ -26,5 +26,8 @@ The dashboard highlights key drop-off points, conversion rates across the funnel
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](E-Commerce_Sales_Funnel_&_Performance_Dashboard.png)
 
-
 ---
+
+## 🔗 Live Deliverables
+- [View my Project Demonstration Video on LinkedIn](https://www.linkedin.com/posts/aireen-fatma_dataanalytics-powerbi-businessintelligence-ugcPost-7489757171434446848-XoFA/?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk)
+
