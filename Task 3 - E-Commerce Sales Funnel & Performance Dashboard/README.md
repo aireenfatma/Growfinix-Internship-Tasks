@@ -24,7 +24,7 @@ The dashboard highlights key drop-off points, conversion rates across the funnel
 ---
 
 ## 📸 Dashboard Preview
-![E-Commerce Sales Funnel & Performance Dashboard](E-Commerce_Sales_Funnel_&_Performance_Dashboard.png)
+![Dashboard Screenshot](E-Commerce_Sales_Funnel_&_Performance_Dashboard.png)
 
 
 ---
