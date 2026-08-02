@@ -15,7 +15,13 @@ The dashboard highlights key drop-off points, conversion rates across the funnel
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools Used
+* **Business Intelligence Tool:** Microsoft Power BI Desktop
+* **Data Modeling & Calculations:** Data Analysis Expressions (DAX)
+* **Data Transformation:** Power Query
+* **Data Source:** E-Commerce Sales Dataset From Kaggle
+
+---
 
 
 ---
