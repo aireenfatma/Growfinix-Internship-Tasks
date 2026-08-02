@@ -16,7 +16,7 @@ To transition from looking at raw real estate numbers to building an interactive
 * **Business Intelligence Tool:** Microsoft Power BI Desktop
 * **Language:** SQL
 * **Data Transformation:** [Connect Power Bi to the SQL Database](USA_Real_Estate_Market_insights.sql)
-* **Data Source:** [USA Real Estate Dataset From Kaggle](real_estate_10k.csv)
+* **Data Source:** [USA Real Estate Dataset](real_estate_10k.csv)
 
 ---
 
