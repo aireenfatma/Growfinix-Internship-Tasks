@@ -24,5 +24,6 @@ This project presents an end-to-end data analytics and business intelligence sol
 ![Dashboard Screenshot](Tour Enquiry & Travel Demand Dashboard.png)
 
 ---
+
 ## 🔗 Live Deliverables
 - [View my Project Demonstration Video on LinkedIn](
