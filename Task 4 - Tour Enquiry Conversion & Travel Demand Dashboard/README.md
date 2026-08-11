@@ -13,7 +13,7 @@ This project presents an end-to-end data analytics and business intelligence sol
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & tool
 * **Data Visualization:** Tableau Public
 * **Data Processing & Analytics:** SQL
 * **Data Source** [Travel Data](travel.csv)
@@ -21,4 +21,8 @@ This project presents an end-to-end data analytics and business intelligence sol
 ---
 
 ## 📷 Dashboard Preview
-!(Tour Enquiry & Travel Demand Dashboard.png)
+![Dashboard Screenshot](Tour Enquiry & Travel Demand Dashboard.png)
+
+---
+## 🔗 Live Deliverables
+- [View my Project Demonstration Video on LinkedIn](
