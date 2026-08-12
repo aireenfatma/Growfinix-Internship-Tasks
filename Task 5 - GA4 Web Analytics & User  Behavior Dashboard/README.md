@@ -44,3 +44,7 @@ The **GA4 Web Analytics & User Behavior Dashboard** provides a comprehensive vis
 * **Documentation:** GitHub
 
 ---
+
+🚀 How to View
+You can view the interactive dashboard live via Google Looker Studio:
+👉-(View Live Looker Studio Dashboard)[https://datastudio.google.com/s/mnZSgF28xy8]
