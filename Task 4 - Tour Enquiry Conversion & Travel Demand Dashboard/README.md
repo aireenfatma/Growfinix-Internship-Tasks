@@ -1,4 +1,4 @@
-# 📊 Task 4: Tour Enquiry Conversion & Travel Demand Dashboard
+# ✈️ Task 4: Tour Enquiry Conversion & Travel Demand Dashboard
 
 ## 📌 Project Overview
 This project presents an end-to-end data analytics and business intelligence solution for a travel and tourism platform. Using historical enquiry and booking data, the dashboard transforms raw metrics into strategic insights—analyzing lead times, booking channels, quarterly seasonality, and demand forecasts to optimize business performance.
