@@ -26,4 +26,4 @@ This project presents an end-to-end data analytics and business intelligence sol
 ---
 
 ## 🔗 Live Deliverables
-- [View my Project Demonstration Video on LinkedIn](
+- [View my Project Demonstration Video on LinkedIn](https://www.linkedin.com/posts/aireen-fatma_dataanalytics-businessintelligence-datavisualization-activity-7493040433346965504-M90w?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk)
