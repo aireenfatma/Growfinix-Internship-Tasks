@@ -31,7 +31,10 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 ### ✈️ [Task 4: Tour Enquiry Conversion & Travel Demand Dashboard](./Task%204%20-%20Tour%20Enquiry%20%26%20Travel%20Demand%20Dashboard)
 - **Goal:** Create a management dashboard to track the performance of a travel agency by visualizing incoming tour enquiries against actual confirmed bookings, using time-series line charts to identify peak booking seasons and forecast future demand.
 - **Tech Stack:** Tableau , SQL
-- **Status:** 🔄 In Progress
+- **Status:** ✅ Completed
 
-### 
+### 📊 [Task 5: GA4 Web Analytics & User Behavior Dashboard](./Task%205%20-%20GA4%20Web%20Analytics%20&%20User%20Behavior%20Dashbord)
+- **Goal:** Built a comprehensive web analytics dashboard using Google Analytics 4 (GA4) data to track user acquisition, traffic channels, page path views, and device demographics for optimizing website performance.
+- **Tech Stack:** Looker Studio (Data Studio), GA4
+- **Status:** ✅ Completed
 
