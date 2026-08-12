@@ -28,7 +28,7 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 - **Tech Stack:** Power BI, DAX (Data Analysis Expressions)
 - **Status:** ✅ Completed
 
-### ✈️ [Task 4: Tour Enquiry Conversion & Travel Demand Dashboard](./Task%204%20-%20Tour%20Enquiry%20%26%20Travel%20Demand%20Dashboard)
+### ✈️ [Task 4: Tour Enquiry Conversion & Travel Demand Dashboard](./Task%204%20-%20Tour%20Enquiry%20Conversion%20&%20Travel%20Demand%20Dashboard)
 - **Goal:** Create a management dashboard to track the performance of a travel agency by visualizing incoming tour enquiries against actual confirmed bookings, using time-series line charts to identify peak booking seasons and forecast future demand.
 - **Tech Stack:** Tableau , SQL
 - **Status:** ✅ Completed
