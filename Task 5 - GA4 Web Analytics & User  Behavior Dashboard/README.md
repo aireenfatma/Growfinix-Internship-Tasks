@@ -1,58 +1,46 @@
-# GA4 Web Analytics & User Behavior Dashboard
+# 📊 GA4 Web Analytics & User Behavior Dashboard
 
-An interactive Google Looker Studio dashboard designed to analyze website traffic, user engagement, and acquisition channels using Google Analytics 4 (GA4) data.
-
----
-
-## 📌 Dashboard Overview
-
-This dashboard provides a clear overview of website performance, user behavior, and traffic acquisition sources to support data-driven marketing decisions.
-
-### Core Metrics Tracked
-- **Views:** 334.28k
-- **Active Users:** 89.29k
-- **New Users:** 71.82k
-- **Sessions:** 103.89k
-- **Avg. Session Duration:** 01:03:41
+## 📌 Project Overview
+The **GA4 Web Analytics & User Behavior Dashboard** provides a comprehensive visual analysis of website traffic, user engagement, and acquisition channels using Google Analytics 4 (GA4) data. Designed in **Looker Studio**, this interactive dashboard translates complex user behavior metrics into strategic insights to optimize user acquisition, landing page performance, and overall site retention.
 
 ---
 
-## 📊 Key Features & Sections
+## ✨ Key Features & Insights
 
-1. **KPI Scorecards:** Top-level metrics monitoring traffic volume, user growth, and engagement duration.
-2. **Traffic Channels Breakdown:** Visual distribution of sessions across channels including Direct, Organic Search, Paid Search, Referral, Cross-network, and Organic Social.
-3. **Page & Landing Page Performance:** Analysis of top page paths and corresponding landing page views to evaluate content engagement.
-4. **Daily Traffic Trend:** Time-series line chart tracking session trends over time.
-5. **Users by Device:** Device category and model distribution chart highlighting top user devices.
+* **Core Overview Metrics (KPI Cards):**
+  * **Views:** `334.28k`
+  * **Active Users:** `89.29k`
+  * **New Users:** `71.82k`
+  * **Total Sessions:** `103.89k`
+  * **Average Session Duration:** `01:03:41`
 
----
+* **Traffic Acquisition Breakdown:**
+  * Categorizes traffic sources across 10+ channels including **Direct**, **Organic Search**, **Unassigned**, **Paid Search**, **Referral**, and **Organic Social**.
+  * Highlights that **Direct Traffic** (`66.72k sessions`) and **Organic Search** (`22.57k sessions`) drive the vast majority of website traffic.
 
-## 💡 Key Insights & Recommendations
+* **Landing Page & Page Path Tracking:**
+  * Tracks high-performing paths such as `/` (Home), `/shop/new`, `/shop/apparel/mens`, `/shop/clearance`, and `/shop/lifestyle/drinkware`.
+  * Analyzes conversion opportunities on key product landing pages.
 
-- **Traffic Insight:** Direct traffic drives the highest volume of sessions (**66.72k**), followed by Organic Search (**22.57k**). Paid channels generate lower volume relative to organic channels.
-  - *Recommendation:* Prioritize SEO optimization and brand awareness while evaluating budget allocation on paid campaigns.
-- **Landing Page / Retention:** Top page paths such as `/`, `/shop/new`, and `/shop/apparel/mens` attract the majority of views.
-  - *Recommendation:* Optimize high-traffic landing pages with clear navigation and prominent call-to-action (CTA) buttons to convert visit volume into longer engaged sessions.
+* **User Device & Technology Distribution:**
+  * Segments visitors by mobile device model (e.g., Galaxy S Series) to ensure responsive user experience optimization across key devices.
 
----
-
-## 🚀 How to Use
-
-1. **Accessing the Dashboard:** Open the report in Google Looker Studio.
-2. **Connecting Your Data:**
-   - Link your **Google Analytics 4 (GA4)** property as the primary data source.
-   - Ensure permissions allow reading `Sessions`, `Views`, `Active users`, `New users`, `Average session duration`, `Session default channel group`, and `Page path / Landing page`.
-3. **Filtering & Analysis:** Use the native Looker Studio date range picker and dimensional controls to drill down into specific date ranges or channels.
+* **Daily Traffic Trends:**
+  * Monitors daily session fluctuations to identify peak traffic days, campaign performance, and seasonal engagement shifts.
 
 ---
 
-## 🛠️ Built With
+## 💡 Key Recommendations & Actionable Insights
 
-- **Visualization:** [Google Looker Studio](https://lookerstudio.google.com/)
-- **Data Source:** [Google Analytics 4 (GA4)](https://analytics.google.com/)
+* **SEO & Brand Focus:** Since Direct and Organic Search make up over 85% of total session volume, marketing investments should focus heavily on search engine optimization (SEO) and brand awareness campaigns rather than underperforming paid channels.
+* **Landing Page Optimization:** Streamlining high-traffic landing pages (like `/shop/new` and `/shop/apparel/mens`) with clear navigation, fast load speeds, and strong Call-to-Action (CTA) buttons will maximize conversion rates and session engagement.
 
 ---
 
-## 📄 License
+## 🛠️ Tech Stack & Tools
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+* **Analytics Platform:** Google Analytics 4 (GA4)
+* **Data Visualization & Reporting:** Looker Studio (formerly Data Studio)
+* **Documentation:** GitHub
+
+---
