@@ -45,7 +45,8 @@ The **GA4 Web Analytics & User Behavior Dashboard** provides a comprehensive vis
 
 ---
 
-## 📷 
+## 📷 Report Overview
+![Report Screenshot](GA4_Web_Analytics_&_User_Behavior_Report.png)
 
 ## 🚀 How to View Full Report
 You can view the interactive dashboard live via Google Looker Studio:
