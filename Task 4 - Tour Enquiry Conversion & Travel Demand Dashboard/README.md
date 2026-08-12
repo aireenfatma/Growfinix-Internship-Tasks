@@ -21,7 +21,7 @@ This project presents an end-to-end data analytics and business intelligence sol
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Tour Enquiry & Travel Demand Dashboard.png)
+![Dashboard Screenshot](Tour_Enquiry_&_Travel_Demand_Dashboard.png)
 
 ---
 
