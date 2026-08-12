@@ -40,8 +40,6 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 
 ---
 
----
-
 ## 🎯 Key Learnings & Outcomes
 Across these five tasks, I developed strong practical experience in:
 - Building end-to-end interactive dashboards using **Power BI**, **Tableau**, and **Looker Studio**.
