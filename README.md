@@ -33,7 +33,7 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 - **Tech Stack:** Tableau , SQL
 - **Status:** ✅ Completed
 
-### 📊 [Task 5: GA4 Web Analytics & User Behavior Dashboard](./Task%205%20-%20GA4%20Web%20Analytics%20&%20User%20Behavior%20Dashbord)
+### 📊 [Task 5: GA4 Web Analytics & User Behavior Dashboard](./Task%205%20-%20GA4%20Web%20Analytics%20&%20User%20Behavior%20Dashboard)
 - **Goal:** Built a comprehensive web analytics dashboard using Google Analytics 4 (GA4) data to track user acquisition, traffic channels, page path views, and device demographics for optimizing website performance.
 - **Tech Stack:** Looker Studio (Data Studio), GA4
 - **Status:** ✅ Completed
