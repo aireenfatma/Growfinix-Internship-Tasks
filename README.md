@@ -38,3 +38,27 @@ This repository contains my submissions for the Month 2 Data Analytics internshi
 - **Tech Stack:** Looker Studio (Data Studio), GA4
 - **Status:** ✅ Completed
 
+---
+
+---
+
+## 🎯 Key Learnings & Outcomes
+Across these five tasks, I developed strong practical experience in:
+- Building end-to-end interactive dashboards using **Power BI**, **Tableau**, and **Looker Studio**.
+- Analyzing customer drop-off bottlenecks, conversion funnels, and marketing ROI.
+- Formulating statistical hypothesis testing ($t$-tests) and evaluating significance levels for A/B testing campaigns.
+- Processing, cleaning, and modeling complex relational datasets using **SQL** and **Python** (`Pandas`, `SciPy`).
+
+---
+
+## 👩‍💻 Author & Contact
+
+**Aireen Fatma**  
+*Data Analyst Intern @ Growfinix Tech*  
+
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile-link](https://www.linkedin.com)
+- 🐙 **GitHub:** [github.com/aireenfatma](https://github.com/aireenfatma)
+- 📧 **Email:** aireenfatma007@gmail.com
+
+---
+*Thank you for taking the time to explore this repository! Feel free to reach out for feedback, collaboration, or networking.*
