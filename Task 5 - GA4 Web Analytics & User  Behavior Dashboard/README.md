@@ -50,6 +50,11 @@ The **GA4 Web Analytics & User Behavior Dashboard** provides a comprehensive vis
 
 ---
 
+## 🔗 Live Deliverables
+- [View my Project Demonstration Video on LinkedIn](https://www.linkedin.com/posts/aireen-fatma_dataanalytics-lookerstudio-googleanalytics4-ugcPost-7493862604881305601-Ee4Q/?utm_source=share&utm_medium=member_android&rcm=ACoAAFGmz-EBBMdFgj9symCGRdyg9LJeeFqtcRk)
+
+---
+
 ## 🚀 How to View Full Report
 You can view the interactive dashboard live via Google Looker Studio:
 -👉[View Live Looker Studio Dashboard](https://datastudio.google.com/s/mnZSgF28xy8)
