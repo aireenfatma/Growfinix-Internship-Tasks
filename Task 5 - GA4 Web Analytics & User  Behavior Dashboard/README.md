@@ -46,7 +46,7 @@ The **GA4 Web Analytics & User Behavior Dashboard** provides a comprehensive vis
 ---
 
 ## 📷 Report Overview
-![Report Screenshot](GA4_Web_Analytics_&_User_Behavior_Dashboard.png)
+![Report Screenshot](GA4_Web_Analytics_&_User_Behavior_Dashboard)
 
 ---
 
